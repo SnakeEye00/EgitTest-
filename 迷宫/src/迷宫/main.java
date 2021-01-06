@@ -1,5 +1,5 @@
 package ÃÔ¹¬;
-//main
+//main1
 public class main {
 	public void static main(String[] args) {
 		
